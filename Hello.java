@@ -3,7 +3,7 @@
 //  
 //
 //  Created by Lynn on 4/10/13.
-//  Copyright 2013 __MyCompanyName__. All rights reserved.
+//  Copyright 2013 Lynn. All rights reserved.
 //
 
 public class Hello {
